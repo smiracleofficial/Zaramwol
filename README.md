@@ -22,13 +22,13 @@ Project created by <a href="https://github.com/smiracleofficial">Sahad</a> to ma
 ----
 
   <p align="center">
-  <a href="https://github.com/Jokerser-x-Raashii/Zaramwol ">
-    <img src="https://img.shields.io/github/repo-size/Jokerser-x-Raashii/Zaramwol?color=pink&label=Repo%20total%20size&style=flat-square">
+  <a href="https://github.com/smiracleofficial/Zaramwol ">
+    <img src="https://img.shields.io/github/repo-size/smiracleofficial/Zaramwol?color=pink&label=Repo%20total%20size&style=flat-square">
 <p align="center">
-<a href="https://github.com/Jokerser-x-Raashii/followers"><img title="Followers" src="https://img.shields.io/github/followers/Jokerser-x-Raashii?color=grey&style=plastic"></a>
-<a href="https://github.com/Jokerser-x-Raashii/Zaramwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Jokerser-x-Raashii/Zaramwol?color=grey&style=plastic"></a>
-<a href="https://github.com/Jokerser-x-Raashii/Zaramwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Jokerser-x-Raashii/Zaramwol?color=grey&style=plastic"></a>
-<a href="https://github.com/Jokerser-x-Raashii/Zaramwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Jokerser-x-Raashii/Zaramwol?label=Watchers&color=grey&style=flat-circle"></a>
+<a href="https://github.com/smiracleofficial/followers"><img title="Followers" src="https://img.shields.io/github/followers/smiracleofficial?color=grey&style=plastic"></a>
+<a href="https://github.com/smiracleofficial/Zaramwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/smiracleofficial/Zaramwol?color=grey&style=plastic"></a>
+<a href="https://github.com/smiracleofficial/Zaramwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/smiracleofficial/Zaramwol?color=grey&style=plastic"></a>
+<a href="https://github.com/smiracleofficial/Zaramwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/smiracleofficial/Zaramwol?label=Watchers&color=grey&style=flat-circle"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-pink.svg"</a>
 
 ```
@@ -56,7 +56,7 @@ the user is responsible.
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Raashii/ZaraMwol)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jokerser-x-Raashii/Zaramwol)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/smiracleofficial/Zaramwol)
      </div>
 <br>
 <br >
@@ -70,7 +70,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Jokerser-x-Raashii/Zaramwol
+$ git clone https://github.com/smiracleofficial/Zaramwol
 $ cd Zaramwol
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -80,7 +80,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Jokerser-x-Raashii/Zaramwol
+$ git clone https://github.com/smiracleofficial/Zaramwol
 $ cd Zaramwol
 $ chmod +x *
 $ npm i
@@ -111,10 +111,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
   
 ## Developers
   <div align="center">
-    
-  [![Raashii](https://github.com/Raashii.png?size=100)](https://github.com/Raashii) |  [![Jokerser](https://github.com/j0kerser.png?size=100)](https://github.com/j0kerser) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  
+  [![Sahad](https://github.com/Raashii.png?size=100)](https://github.com/smiracleofficial) |  [![Jokerser](https://github.com/j0kerser.png?size=100)](https://github.com/j0kerser) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
-[Raashii](https://github.com/Raashii)  | [Jokerser](https://github.com/j0kerser) | [afnanplk](https://github.com/afnanplk)
+[Sahad](https://github.com/smiracleofficial)  | [Jokerser](https://github.com/j0kerser) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
 
