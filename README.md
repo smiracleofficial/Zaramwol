@@ -8,11 +8,11 @@
 </p>
   </p>
 <p align="center">
-<a href="https://github.com/Raashii"><img title="Raashii" src="https://img.shields.io/badge/author-Raashii?color=blue&style=for-the-badge&logo=github"></a>
+<a href="https://github.com/smiracleofficial"><img title="Sahad" src="https://img.shields.io/badge/author-Sahad?color=blue&style=for-the-badge&logo=github"></a>
 
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Raashii">Raashii</a> to make it public
+Project created by <a href="https://github.com/smiracleofficial">Sahad</a> to make it public
     <br>
        | © |
         Reserved |
